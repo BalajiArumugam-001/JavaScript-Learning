@@ -1,1 +1,10 @@
-# JavaScript-Learning
+what is Javascript ?
+  
+  
+  
+  
+  
+  
+  Why Javascript?
+  
+  
