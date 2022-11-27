@@ -1,6 +1,23 @@
 Hi guys,
 This article helps you to understand programming bettter.
 
+ Basics of Programming:(going to learn)
+ *Why programming?
+ *What is Programming?
+ *Input/Output
+ *First Program
+ *Variables and memory management
+ *Syntax and Naming convention
+ *type conversion
+ *If condition
+ *loops
+ *Switch statement
+ *Arrays and strings
+ *In-built functions
+ *Debugging
+ *Pattern Printing Program for Logic building
+ *Basic Program
+ 
 what is Javascript ?
 
   1.JavaScript is the Programming Language for the Web.
@@ -25,13 +42,10 @@ JavaScript allows users to interact with web pages. There are almost no limits t
  
  ![javascript_logo](https://user-images.githubusercontent.com/57753452/204128385-481693f7-e91e-4b75-8ce8-66846d0e8081.png)
 
+
  
- Basics of Programming:(going to learn)
- *Why programming?
- *What is Programming?
- *Input/Output
- *Variables and memory management
- *Syntax and Naming convention
- *
+ 
+ 
+ 
 
   
