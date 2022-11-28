@@ -2,7 +2,7 @@ Hi guys,
 This article helps you to understand programming bettter.                                                      Author:Balaji Arumugam
 
  Basics of Programming:(going to learn)
- *Why programming?
+ *Why programming?<br>
  *What is Programming?
  *Input/Output
  *First Program
